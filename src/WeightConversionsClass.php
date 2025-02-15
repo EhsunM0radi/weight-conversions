@@ -2,4 +2,6 @@
 
 namespace EhsunM0radi\WeightConversions;
 
-class WeightConversionsClass {}
+class WeightConversionsClass
+{
+}
